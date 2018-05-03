@@ -8,13 +8,14 @@ Note that jq is required to run these scripts:  https://stedolan.github.io/jq/do
 
 Bittrex's API Documentation is here:  https://support.bittrex.com/hc/en-us/articles/115003723911-Developer-s-Guide-API
 
-Let me know if this helped you out!
+Using the API documentation, you should be able to adapt these example scripts to do or automate just about anything the API is capable of.  Try using jq's tsv output options if you need to pull Bittrex data into MySql, for example.
 
-Donations always welcome!!
 
-BTC 322ejcxUuYe2K73vZyaa4Pk6EJignf7E9g
+Let me know if this helped you out!  Donations always welcome!!
 
-LTC LbfajQFYTj8fQxsgy2GZteDTfnZrkRZFan
+BTC: 322ejcxUuYe2K73vZyaa4Pk6EJignf7E9g
+
+LTC: LbfajQFYTj8fQxsgy2GZteDTfnZrkRZFan
 
 P.S - These are just basic scripts to show basic concepts.  There are no built in checks and balances to make sure that you aren't sending your money somewhere daft.  Store and use your API keys wisely and use these scripts at your own risk.  If buying, selling, or withdrawing using the Bittrex API, check your work before you press enter!
 
