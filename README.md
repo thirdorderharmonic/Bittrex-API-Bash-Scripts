@@ -6,6 +6,8 @@ I've tested on Ubuntu 16.04 and MacOS 10.11-10.13
 
 Note that jq is required to run these scripts:  https://stedolan.github.io/jq/download/
 
+Bittrex's API Documentation is here:  https://support.bittrex.com/hc/en-us/articles/115003723911-Developer-s-Guide-API
+
 Let me know if this helped you out!
 
 Donations always welcome!!
