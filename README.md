@@ -1,6 +1,6 @@
 # Bittrex-API-Bash-Scripts
 
-My bash adapation of some of the PHP examples for interacting with the bittrex API, demonstrating how to use authenticated calls.
+My bash adapation of some of the PHP examples for interacting with the bittrex API, and demonstrating how to use authenticated calls.
 
 I've tested on Ubuntu 16.04 and MacOS 10.11-10.13
 
