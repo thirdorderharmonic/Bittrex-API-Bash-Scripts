@@ -15,10 +15,8 @@ Let me know if this helped you out!
 P.S - These are just basic scripts to show basic concepts.  There are no built in checks and balances to make sure that you aren't sending your money somewhere daft.  Store and use your API keys wisely and use these scripts at your own risk.  If buying, selling, or withdrawing using the Bittrex API, check your work before you press enter!
 
 Cheers,
+
 Neil
 
 
-Donations always welcome!!
-
-BTC: 322ejcxUuYe2K73vZyaa4Pk6EJignf7E9g
-LTC: LbfajQFYTj8fQxsgy2GZteDTfnZrkRZFan
+Donations always welcome!!  BTC: 322ejcxUuYe2K73vZyaa4Pk6EJignf7E9g  LTC: LbfajQFYTj8fQxsgy2GZteDTfnZrkRZFan
