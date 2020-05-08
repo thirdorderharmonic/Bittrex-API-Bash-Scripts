@@ -17,7 +17,7 @@ read apisecret
 
 nonce=$(date +%s)
 uri="https://bittrex.com/api/v1.1/account/getbalances?apikey=$apikey&nonce=$nonce"
-sign=$(echo -n "$uri" | openssl dgst -sha512 -hmac "$apisecret")
+sign=$(echo -n "$uri" | openssl dgst -sha512 -hmac "$apisecret" | awk '{print $2}')
 
 # GET request on URI and parse resultant json using jq
 
